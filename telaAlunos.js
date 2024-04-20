@@ -29,7 +29,7 @@ function mostrarInformacoes() {
             emailaluno = "aluno439@gmail.com";
             break;
         case "aluno5":
-            nomealuno = "Aluno 5";
+            nomealuno = "Aluno s5";
             registroaluno = "06397615";
             emailaluno = "aluno526@outlook.com";
             break;                        
